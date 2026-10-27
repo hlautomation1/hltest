@@ -11,7 +11,7 @@ import shutil
 
 from datetime import datetime
 from requests.auth import HTTPBasicAuth
-from getapikey import get_api_key
+from getapikey import get_api_ke
 
 
 class Platform():
